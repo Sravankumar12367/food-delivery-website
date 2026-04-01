@@ -6,7 +6,7 @@ A modern and responsive food delivery web application inspired by platforms like
 
 ## 🚀 Live Demo
 
-👉 https://your-username.github.io/food-delivery-website/
+👉 https://github.com/Sravankumar12367/food-delivery-website.git
 
 ---
 
@@ -62,7 +62,7 @@ This project demonstrates frontend development skills including:
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/food-delivery-website.git
+git clone https://github.com/Sravankumar12367/food-delivery-website.git
 ```
 
 2. Open `index.html` in your browser
