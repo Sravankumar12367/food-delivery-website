@@ -1,4 +1,4 @@
-# food-delivery-website
+# Restaurant Ordering Web Application |
 A responsive food delivery web application with login, menu browsing, cart functionality, and order simulation using HTML, CSS, JavaScript, and LocalStorage.
 # 🍛 Food Delivery Website
 
@@ -7,8 +7,6 @@ A modern and responsive food delivery web application inspired by platforms like
 ---
 
 ## 🚀 Live Demo
-
-👉 https://github.com/Sravankumar12367/food-delivery-website.git
 
 ---
 
