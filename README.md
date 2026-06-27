@@ -7,7 +7,7 @@ A modern and responsive food delivery web application inspired by platforms like
 ---
 
 ## 🚀 Live Demo
-
+Link: https://heroic-wisp-37ae69.netlify.app
 ---
 
 ## 📸 Features
