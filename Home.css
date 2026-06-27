@@ -334,3 +334,52 @@ header h1 span {
   }
 
 }
+
+/* Mobile */
+
+@media (max-width: 768px){
+
+    #nav{
+        padding:0 20px;
+        flex-direction:column;
+        height:auto;
+        gap:15px;
+        padding-top:15px;
+        padding-bottom:15px;
+    }
+
+    #tags{
+        flex-wrap:wrap;
+        justify-content:center;
+    }
+
+    #hero{
+        padding-left:20px;
+        padding-right:20px;
+        text-align:center;
+        justify-content:center;
+    }
+
+    .hero_text h1{
+        font-size:42px;
+        line-height:50px;
+    }
+
+    #about{
+        flex-direction:column;
+        padding:40px 20px;
+    }
+
+    #about_one,
+    #about_two{
+        width:100%;
+    }
+
+    #about_two{
+        height:400px;
+    }
+
+    #headings h1{
+        font-size:30px;
+    }
+}
